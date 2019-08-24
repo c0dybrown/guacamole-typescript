@@ -1,0 +1,1 @@
+A TypeScript-compatible port of Apache Guacamole. This is a pattern that can be followed to make updated ports.
